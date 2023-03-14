@@ -3,7 +3,7 @@
 pragma solidity ^0.8.0;
 
 
-contract AI Chat 2.0 {
+contract AI Chat 2.1 {
 
     address public owner;
     mapping (address => uint) public payments;
